@@ -25,7 +25,3 @@ I am a frontend developer with focus on web fundamentals. I work at Globant Indi
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilJHA01&layout=compact)](https://github.com/NikhilJHA01/github-readme-stats)
-
----
