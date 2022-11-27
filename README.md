@@ -26,6 +26,6 @@ I am a frontend developer with focus on web fundamentals. I work at Globant Indi
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NikhilJHA01&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilJHA01&layout=compact)](https://github.com/NikhilJHA01/github-readme-stats)
 
 ---
