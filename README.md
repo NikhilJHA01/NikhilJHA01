@@ -10,7 +10,7 @@
 ---
 
 ### 💻 &nbsp; About Me :
-I am a frontend developer with focus on web fundamentals. I work at Globant India to deliver the quality products with modern frameworks. 
+I am a frontend developer with focus on web fundamentals. I work at VMware  to deliver the quality products with modern frameworks. 
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
